@@ -1,0 +1,62 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+html
+body {
+	background-color: #f0fc03;
+}
+
+.b2 {
+	vertical-align: middle;
+} 
+
+h1 {
+	font-size: 80px;
+	color: #fff;
+    text-align: center;
+	margin-left: 200px;
+}
+img {
+	width: 100%;
+	height: 100%;
+ 
+}
+.b3{
+	margin-top: 50px;
+}
+
+.blok345 {
+	border: 3px solid #fc03ec;
+	margin: 5px;
+	background-color: #30bbf2;
+
+}
+.blok345 {
+	background-color: #b3b8ae;
+	margin: 5px;
+	width: 25%, 60%, 13%;
+	float:left;
+}
+.blok345 table {
+    border: 1px; 
+    width: 100%;
+    align: center: 
+    height: 100%;
+}
+
+.blok345 th {
+	width: 60%, 40%;
+	height: 60%, 40%;
+    float: none;
+    clear: none;
+   
+}
+.blok345 td {
+	width: 30%;
+	height:50%:
+    rowspan: 2px;
+    float: none;
+    clear: left;
+    align-content:stretch;
+}
